@@ -1,0 +1,7 @@
+.sideDrawer {
+    width: 70%;
+    background-color: green;
+    height: 100vh;
+    top: 0;
+    position: fixed;
+}
